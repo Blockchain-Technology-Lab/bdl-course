@@ -4,7 +4,9 @@ This is the lecture material for the course Blockchains and Distributed Ledgers
 (NFR11144) taught at the University of Edinburgh in the winter semester of
 2025-2026.
 
-**Course organiser**: <a href="https://kiayias.com">Aggelos Kiayias</a>
+**Instructors**: 
+- <a href="https://kiayias.com">Aggelos Kiayias</a>
+- <a href="https://damianoabram.github.io/">Damiano Abram</a>
 
 **Teaching assistants**:
 - <a href=https://ladychristina.github.io/>Christina Ovezik</a>
@@ -12,7 +14,7 @@ This is the lecture material for the course Blockchains and Distributed Ledgers
 
 ---
 
-The official web-site of the course is: 
+The official website of the course is: 
 <a href="https://course.inf.ed.ac.uk/bdl">course.inf.ed.ac.uk/bdl</a>
 
 Lecture recordings are available here (you need to have a UoE account): 
